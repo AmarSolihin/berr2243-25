@@ -1,8 +1,4 @@
 # berr2243-25
-Here’s a **complete, ready-to-use README.md** file tailored exactly for your assignment. You can just copy-paste this into your repository:
-
----
-
 # Week 1 Exercise: Environment Setup, Git Workflows & Hello MongoDB
 
 ## Objective
@@ -65,14 +61,14 @@ Set up core development tools, learn basic Git workflows, and create a simple No
 
 ## Repository Setup
 
-- Created a GitHub repository named: `hello-mongodb`
+- Created a GitHub repository named: `MyFirstProject`
 - Branches:
   - `main`
   - `feature/setup`
 - Cloned repository locally:
   ```bash
-  git clone https://github.com/your-username/hello-mongodb.git
-  cd hello-mongodb
+  git clone https://github.com/AmarSolihin/MyFirstProject.git
+  cd MyFirstProject
   git checkout -b feature/setup
   ```
 
@@ -117,7 +113,7 @@ node_modules/
 
 ## Deliverables
 
-- GitHub repository: [Link to Repository]
+- GitHub repository: https://github.com/AmarSolihin/MyFirstProject
 - Branch structure:
   - `main`
   - `feature/setup`
