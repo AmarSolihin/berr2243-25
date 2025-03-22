@@ -11,7 +11,7 @@ async function run() {
         const db = client.db("testDB");
         const users = db.collection("users");
 
-        const result = await users.insertOne({ name: "AmarSolihin", age: 22 });
+        const result = await users.insertOne({ name: "Amar", age: 22 });
         console.log(`Document inserted with _id: ${result.insertedId}`);
 
         const findResult = await users.findOne({ _id: result.insertedId });
