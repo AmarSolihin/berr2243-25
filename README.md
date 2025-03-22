@@ -130,8 +130,5 @@ node_modules/
 
 ## Author
 
-**Your Name**
+Amar Solihin
 
----
-
-**Would you like me to prepare the `index.js` file for you as well to match this README?**
